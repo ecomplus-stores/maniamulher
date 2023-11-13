@@ -4,15 +4,15 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
+      "autoplay": 5000,
+      "full_width": true,
       "slides": [
         {
           "img": "/img/uploads/banner.png",
           "link": "/headset",
           "alt": "Headset banner",
           "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
+          "end": "2024-10-24T16:38:32.074Z",
           "mobile_img": "/img/uploads/headphone.webp"
         },
         {
