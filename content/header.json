@@ -1,21 +1,22 @@
 {
-  "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 50%!",
-    "link": "/promotion"
-  },
-  "contacts_stripe": {
-    "pages": [],
-    "phone_wpp": false,
-    "socials": false
-  },
   "categories_list": {
     "featured": [],
     "random": 6,
     "full_width": true
   },
   "centralized_logo": true,
-  "desktop_megamenu": true,
-  "search_input": true,
+  "marketing_stripe": {
+    "text": "Aproveite nossos descontos de até 50%!",
+    "link": "/promotion"
+  },
   "alphabetical_order_submenu": false,
-  "full_width_submenu": false
+  "popup": "/img/uploads/vitrinne-cla-ssica2.png",
+  "search_input": true,
+  "desktop_megamenu": true,
+  "full_width_submenu": false,
+  "contacts_stripe": {
+    "pages": [],
+    "phone_wpp": false,
+    "socials": false
+  }
 }
