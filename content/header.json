@@ -14,7 +14,7 @@
     "full_width": true
   },
   "centralized_logo": true,
-  "desktop_megamenu": false,
+  "desktop_megamenu": true,
   "search_input": true,
   "alphabetical_order_submenu": false,
   "full_width_submenu": false
