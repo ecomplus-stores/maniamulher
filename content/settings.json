@@ -1,7 +1,7 @@
 {
   "domain": "maniamulher.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ffffff",
+  "primary_color": "#343434",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -16,9 +16,9 @@
   "mini_logo": "",
   "font_family": "_",
   "favicon": "/img/uploads/favicon.png",
-  "icons_font": "_",
+  "icons_font": "font-awesome",
   "country_code": "BR",
-  "secondary_color": "#5f5f5f",
+  "secondary_color": "#343434",
   "icon": "/img/icon.png",
   "store_id": 51478,
   "description": "maniamulher",
