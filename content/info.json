@@ -1,7 +1,8 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Entregamos para todo o Brasil",
+    "title": "Frete Grátis nas compras acima de R$199,99"
   },
   "installments": {
     "show": true,
