@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.6ea8a5c3b479666ccefe3e01b759d4a6.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.2c912b73417f29809a05073eff1f0bf6.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.a11381c310fd36d531aea2fe72b464b7.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.72d05a2723f6339cbf8b333f5cb30386.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.d61aedfa3ec8902a7f961c3989f56053.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "maniamulher",
+  "short_name": "Vitrinne Clássica",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "maniamulher",
+  "background_color": "#ffffff",
+  "theme_color": "#343434"
+}
